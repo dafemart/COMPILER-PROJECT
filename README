@@ -1,0 +1,5 @@
+Daniel F Martinez
+COMPILER
+
+Basic compiler coded in c++. Still working on code generation. My core work relies on the files scanner.l, parser.y and type_checker .cpp .h
+
